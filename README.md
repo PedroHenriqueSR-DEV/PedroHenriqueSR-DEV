@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Always show my progressions as a programmer both professionally and personally!
 - 📫 How to reach me dev04matriz@friossemlimite.onmicrosoft.com
 - 😄 I like: I like to always learn new things and always put myself in a new competition to always show my potential and improve my knowledge more!
-- ⚡ Fun fact: I love doing physical exercises such as weight training, running and swimming! I love nature and traveling, discovering new cultures, typical foods and socializing with nature!
+- ⚡ Fun fact: I love doing physical exercises such as weight training, running and swimming! I love nature and traveling, discovering new cultures, typical foods! I love reconnecting with nature!
 
 <!---
 PedroHenriqueSR-DEV/PedroHenriqueSR-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
