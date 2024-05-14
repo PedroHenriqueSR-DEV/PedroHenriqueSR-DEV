@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Henrique de Souza Ramos and I'm a developer at the company Sem Limite!
 - 👀 I’m interested in knowledge about development and analysis!
-- 🌱 I’m currently learning develop with AndroidStudio with Java and Kotlin, PHP!
+- 🌱 I’m currently learning develop with AndroidStudio with Java and Kotlin, PHP, Delphi e Firebird!
 - 💞️ I’m looking to collaborate on Always show my progressions as a programmer both professionally and personally!
 - 📫 How to reach me dev04matriz@friossemlimite.onmicrosoft.com
 - 😄 I like: I like to always learn new things and always put myself in a new competition to always show my potential and improve my knowledge more!
